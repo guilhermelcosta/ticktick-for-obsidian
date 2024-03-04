@@ -1,11 +1,11 @@
 {
-	"id": "sample-plugin",
-	"name": "Sample Plugin",
+	"id": "ticktick-obsidian-sync",
+	"name": "TickTick for Obsidian",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "Demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"description": "[MUDAR PARA EN] Essa app faz a integração entre o TickTick e o Obsidian",
+	"author": "Guilherme Costa",
+	"authorUrl": "https://github.com/guilhermelcosta",
+	"fundingUrl": "https://github.com/guilhermelcosta/ticktick-obsidian-sync",
 	"isDesktopOnly": false
 }
