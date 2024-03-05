@@ -1,9 +1,9 @@
 {
-	"id": "ticktick-obsidian-sync",
+	"id": "ticktick-for-obsidian",
 	"name": "TickTick for Obsidian",
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
-	"description": "[MUDAR PARA EN] Essa app faz a integração entre o TickTick e o Obsidian",
+	"description": "Use your TickTick account within the realms of obsidian.",
 	"author": "Guilherme Costa",
 	"authorUrl": "https://github.com/guilhermelcosta",
 	"fundingUrl": "https://github.com/guilhermelcosta/ticktick-obsidian-sync",
